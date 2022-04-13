@@ -2,6 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-  <head></head>
+  <head>
+    <h1>Moja prvá sránka<h1>
+      </head>
   <body></body>
 </head>
